@@ -4,5 +4,3 @@ They amount to allowing for xgboost to be used in generalized stacked models in
 addition to more standard scikit learn models.
 
 Might extend this further at some point to allow for keras models.
-
-Taken from https://github.com/dustinstansbury/stacked_generalization
