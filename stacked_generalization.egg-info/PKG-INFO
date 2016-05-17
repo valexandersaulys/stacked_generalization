@@ -1,0 +1,16 @@
+Metadata-Version: 1.0
+Name: stacked-generalization
+Version: 0.0.0
+Summary: Python implementation of stacked generalization. Plays nicely with sklearn
+Home-page: https://github.com/dustinstansbury/stacked_generalization
+Author: Dustin Stansbury
+Author-email: https://dustin.stansbury@gmail.com
+License: UNKNOWN
+Description: # My own changes to this
+        
+        They amount to allowing for xgboost to be used in generalized stacked models in
+        addition to more standard scikit learn models.
+        
+        Might extend this further at some point to allow for keras models.
+Keywords: machine learning,stacked generalization,ensemble methods,classification algorithms
+Platform: UNKNOWN
